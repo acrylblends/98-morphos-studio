@@ -1,6 +1,6 @@
 # MorphOS Studio
 
-> Concept: Observe the interface adapting.
+A sandbox for inspecting adaptive interfaces, runtime-generated tools and configuration changes.
 
 An ACRYL Blends blueprint for the **Self-modifying / Adaptive** category (`acrylblends.morphos-studio`, category 98 of 100).
 
